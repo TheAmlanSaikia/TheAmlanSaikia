@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://amlansaikia.netlify.app/](https://amlansaikia.netlify.app/)
 
 - 💬 Ask me about **Frontend Technologies**
 
